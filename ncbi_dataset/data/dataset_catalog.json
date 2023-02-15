@@ -1,0 +1,71 @@
+{
+"apiVersion": "V1",
+"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000597845.1",
+  "files": [
+    {
+      "filePath": "GCA_000597845.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE"
+    },
+    {
+      "filePath": "GCA_000597845.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000599625.1",
+  "files": [
+    {
+      "filePath": "GCA_000599625.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE"
+    },
+    {
+      "filePath": "GCA_000599625.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000599645.1",
+  "files": [
+    {
+      "filePath": "GCA_000599645.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE"
+    },
+    {
+      "filePath": "GCA_000599645.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000599665.1",
+  "files": [
+    {
+      "filePath": "GCA_000599665.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE"
+    },
+    {
+      "filePath": "GCA_000599665.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000599685.1",
+  "files": [
+    {
+      "filePath": "GCA_000599685.1/genomic.gbff",
+      "fileType": "GENBANK_FLAT_FILE"
+    },
+    {
+      "filePath": "GCA_000599685.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+}]}
