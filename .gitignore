@@ -1,0 +1,5 @@
+ncbi_dataset/
+seq_files/
+*.zip
+datasets
+.ipynb_checkpoints/

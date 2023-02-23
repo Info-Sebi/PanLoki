@@ -9,62 +9,62 @@
     }
   ]
 },{
-  "accession": "GCA_000597845.1",
+  "accession": "GCA_008329785.1",
   "files": [
     {
-      "filePath": "GCA_000597845.1/genomic.gbff",
+      "filePath": "GCA_008329785.1/genomic.gbff",
       "fileType": "GENBANK_FLAT_FILE"
     },
     {
-      "filePath": "GCA_000597845.1/sequence_report.jsonl",
+      "filePath": "GCA_008329785.1/sequence_report.jsonl",
       "fileType": "SEQUENCE_REPORT"
     }
   ]
 },{
-  "accession": "GCA_000599625.1",
+  "accession": "GCA_011604805.1",
   "files": [
     {
-      "filePath": "GCA_000599625.1/genomic.gbff",
+      "filePath": "GCA_011604805.1/genomic.gbff",
       "fileType": "GENBANK_FLAT_FILE"
     },
     {
-      "filePath": "GCA_000599625.1/sequence_report.jsonl",
+      "filePath": "GCA_011604805.1/sequence_report.jsonl",
       "fileType": "SEQUENCE_REPORT"
     }
   ]
 },{
-  "accession": "GCA_000599645.1",
+  "accession": "GCA_011604825.1",
   "files": [
     {
-      "filePath": "GCA_000599645.1/genomic.gbff",
+      "filePath": "GCA_011604825.1/genomic.gbff",
       "fileType": "GENBANK_FLAT_FILE"
     },
     {
-      "filePath": "GCA_000599645.1/sequence_report.jsonl",
+      "filePath": "GCA_011604825.1/sequence_report.jsonl",
       "fileType": "SEQUENCE_REPORT"
     }
   ]
 },{
-  "accession": "GCA_000599665.1",
+  "accession": "GCA_020546685.1",
   "files": [
     {
-      "filePath": "GCA_000599665.1/genomic.gbff",
+      "filePath": "GCA_020546685.1/genomic.gbff",
       "fileType": "GENBANK_FLAT_FILE"
     },
     {
-      "filePath": "GCA_000599665.1/sequence_report.jsonl",
+      "filePath": "GCA_020546685.1/sequence_report.jsonl",
       "fileType": "SEQUENCE_REPORT"
     }
   ]
 },{
-  "accession": "GCA_000599685.1",
+  "accession": "GCA_024138735.1",
   "files": [
     {
-      "filePath": "GCA_000599685.1/genomic.gbff",
+      "filePath": "GCA_024138735.1/genomic.gbff",
       "fileType": "GENBANK_FLAT_FILE"
     },
     {
-      "filePath": "GCA_000599685.1/sequence_report.jsonl",
+      "filePath": "GCA_024138735.1/sequence_report.jsonl",
       "fileType": "SEQUENCE_REPORT"
     }
   ]
