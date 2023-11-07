@@ -1,24 +1,58 @@
->CF61_08800 <unknown description>
-MLPRLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMI
-LLMIESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATW
-LQ
->CF61_08810 <unknown description>
-MENLALTTLMLPFIGALVVSFSPQRRAAEWGFCSPH
->CF59_21340 <unknown description>
-MLPRLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMI
-LLMIESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATW
-LQ
->BU34_21945 <unknown description>
-MENLALTTLMLPFIGALVVSFSPQRRAAEWGFCSPH
->BU34_21955 <unknown description>
-MLPRLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMI
-LLMIESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATW
-LQ
->CF58_21365 <unknown description>
-MLPRLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMI
-LLMIESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATW
-LQ
->HW43_16810 <unknown description>
+>CF61_08800
+M-----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------LP
+RLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMILLM
+IESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATWLQ
+>CF61_08810
+MENLALTTLMLPFIGALVVSFSPQRRAAEWG-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------FC-------------------------------------------
+-----------------SPH---------------------------------------
+>CF59_21340
+M-----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------LP
+RLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMILLM
+IESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATWLQ
+>BU34_21945
+MENLALTTLMLPFIGALVVSFSPQRRAAEWG-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------FC-------------------------------------------
+-----------------SPH---------------------------------------
+>BU34_21955
+M-----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------LP
+RLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMILLM
+IESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATWLQ
+>CF58_21365
+M-----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------LP
+RLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMILLM
+IESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATWLQ
+>HW43_16810
 MENLALTTLLLPFIGALVVSFSPQRRAAEWGVLFAALTTLCMLSLISAFYQADKVAVTLT
 LVNVGDVALFGLVIDRVSTLILFVVVFLGLLVTIYSTGYLTDKNREHPHNGTNRYYAFLL
 LFIGAMAGLVLSSTLLGQLLFFEITGGCSWALISYYQSDKAQRSALKALLITHIGSLGLY
@@ -27,7 +61,7 @@ SAYLHAASMVKVGVYIFARAIIDGGNIPHVIGGVGMVMALVTILYGFLMYLPQQDMKRLL
 AWSTITQLGWMFFGLSLSIFGSRLALEGSIAYIVNHAFAKSLFFLVAGALSYSCGTRLLP
 RLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMILLM
 IESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATWLQ
->ECONIH1_14230 <unknown description>
+>ECONIH1_14230
 MENLALTTLLLPFIGALVVSFSPQRRAAEWGVLFAALTTLCMLSLISAFYQADKVAVTLT
 LVNVGDVALFGLVIDRVSTLILFVVVFLGLLVTIYSTGYLTDKNREHLHNGTNRYYAFLL
 VFIGAMAGLVLSSTLLGQLLFFEITGGCSWALISYYQSDKAQRSALKALLITHIGSLGLY
@@ -36,13 +70,25 @@ SAYLHAASMVKVGVYIFARAIIDGGNIPHVIGGVGMVMALVTILYGFLMYLPQQDMKRLL
 AWSTITQLGWMFFGLSLSIFGSRLALEGSIAYIVNHAFAKSLFFLVAGALSYSCGTRLLP
 RLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFSLSVEYWILLPAMILLM
 FESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATWLQ
->CF57_08115 <unknown description>
-MLPRLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMI
-LLMIESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATW
-LQ
->CF57_08125 <unknown description>
-MENLALTTLMLPFIGALVVSFSPQRRAAEWGFCSPH
->RR31_13165 <unknown description>
+>CF57_08115
+M-----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------LP
+RLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMILLM
+IESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATWLQ
+>CF57_08125
+MENLALTTLMLPFIGALVVSFSPQRRAAEWG-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------FC-------------------------------------------
+-----------------SPH---------------------------------------
+>RR31_13165
 MENLALTTLLLPFIGALVVSFSPQRRAAEWGVLFAALTTLCMLSLISAFYQADKVAVTLT
 LVNVGDVALFGLVIDRVSTLILFVVVFLGLLVTIYSTGYLTDKNREHPHNGTNRYYAFLL
 VFIGAMAGLVLSSTLLGQLLFFEITGGCSWALISYYQSDKAQRSALKALLITHIGSLGLY
@@ -51,13 +97,30 @@ SAYLHAASMVKVGVYIFARAIIDGGNIPHVIGGVGMVMALVTILYGFLMYLPQQDMKRLL
 AWSTITQLGWMFFGLSLSIFGSRLALEGSIAYIVNHAFAKSLFFLVAGALSYSCGTRLLP
 RLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMILLM
 IESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATWLQ
->CF60_21005 <unknown description>
-MLPRLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMI
-LLMIESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATW
-LQ
->HW42_17140 <unknown description>
-MENLALTTLMLPFIGALVVSFSPQRRAAEWGFCSPH
->HW42_17145 <unknown description>
-MGVLFAALTTLCMLSLISAFYQADKVAVTLTLVNVGDVALFGLVIDRVSTLILFVVVFLG
-LLVTIYSTGYLTDKNREHPHNGTNRYYAFLLVFIGAMAGLVLSSTLLGQLLFFEIRAAAP
-GR
+>CF60_21005
+M-----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------------------LP
+RLRGVLHTLPLPGVGFCVAALAITGVPPFNGFFSKFPLFAAGFALSVEYWILLPAMILLM
+IESVASFAWFIRWFGRVVPGKPSEAVADAAPLPGSMRLVLIVLIVMSLISSVIAATWLQ
+>HW42_17140
+MENLALTTLMLPFIGALVVSFSPQRRAAEWG-----------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------FC-------------------------------------------
+-----------------SPH---------------------------------------
+>HW42_17145
+M-----------------------------GVLFAALTTLCMLSLISAFYQADKVAVTLT
+LVNVGDVALFGLVIDRVSTLILFVVVFLGLLVTIYSTGYLTDKNREHPHNGTNRYYAFLL
+VFIGAMAGLVLSSTLLGQLLFFEIRAA---------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------APGR--------------------------------------
