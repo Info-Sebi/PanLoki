@@ -1,0 +1,6 @@
+Name,Organism,Strain,Taxonomy id,Length,Sequences,Gene count,Plasmids,GC%,N50
+GCA_000307585.2,Thermoanaerobacterium saccharolyticum JW/SL-YS485,JW/SL-YS485,1094508,2879349,3,2840,1,35.07,2726530
+GCA_017874545.1,Thermoanaerobacterium butyriciformans,DSM 101588,1702242,2930587,72,2982,0,33.89,77179
+GCA_000512105.1,Thermoanaerobacterium aotearoense SCUT27,SCUT27,1421016,2808044,91,2782,0,34.89,196631
+GCA_009905255.1,Thermoanaerobacterium aotearoense,SCUT27,47490,2668690,1,2628,-,35.37,2668690
+GCA_000747665.1,Thermoanaerobacterium saccharolyticum,NTOU1,28896,2833212,101,3113,-,34.83,56375
