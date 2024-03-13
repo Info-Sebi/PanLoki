@@ -1,5 +1,7 @@
-ncbi_dataset/
-seq_files/
 *.zip
-datasets
 .ipynb_checkpoints/
+test_3/
+Thermoanaerobacter/
+Thermoanaerobacterium/
+Thermoanaerobacter_without/
+Thermo_both/
